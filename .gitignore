@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+*.mat
+.DS_Store
+model/caltech/*
+model/caltech_del/*
