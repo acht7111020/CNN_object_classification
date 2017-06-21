@@ -3,6 +3,7 @@ Use CNN and VGG structure to train 3 datasets:
 * CIFAR10
 * CIFAR100
 * Caltech101
+
 Save the trained model, then use webcam and django to write a simple web application. [link](https://github.com/willylulu/PRfinal)
 
 ### Install
