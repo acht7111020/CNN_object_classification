@@ -13,11 +13,11 @@ Save the trained model, then use webcam and django to write a simple web applica
 
 ### Training Result
 
-|   Dataset  |  Training acc | Testing acc |   | Runnung time |
-|------------|:-------------:|:-----------:| - |:------------:|
-| CIFAR10    |      98%      |     80%     |   |    16 min    |
-| CIFAR100   |      89%      |     71%     |   |     7  hr    |
-| Caltech101 |      90%      |     65%     |   |     1  hr    |
+|   Dataset  |  Training acc | Testing acc | Runnung time (with GTX 960 8G) |
+|------------|:-------------:|:-----------:|:------------:|
+| CIFAR10    |      98%      |     80%     |    16 min    |
+| CIFAR100   |      89%      |     71%     |     7  hr    |
+| Caltech101 |      90%      |     65%     |     1  hr    |
 
 ### Web application
 The first block is the webcam preview window, and the little block near it is the image that we want to predict.
